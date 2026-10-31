@@ -1,0 +1,6 @@
+{
+  "name": "WearBottle — Hands-Free Hydration Sling Bottle",
+  "description": "The world's first smart reusable water bottle whose label transforms into a wearable sling strap. Carry water, not the weight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
